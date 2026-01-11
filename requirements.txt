@@ -1,0 +1,17 @@
+# Core RL libraries
+gymnasium==1.2.3
+stable-baselines3==2.7.1
+torch==2.7.1
+numpy==2.2.6
+
+# Visualization
+matplotlib==3.10.8
+tensorboard==2.20.0
+
+# Environment dependencies
+Box2D==2.3.10
+swig==4.4.1
+
+# Video recording
+imageio==2.37.2
+imageio-ffmpeg==0.6.0
