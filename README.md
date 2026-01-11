@@ -33,3 +33,5 @@
 
 ```bash
 pip install -r requirements.txt
+
+Рекомендуется загрузить ноутбук (lunar_lander_experiments.ipynb) на компьютер и запустить локально в VS Code
