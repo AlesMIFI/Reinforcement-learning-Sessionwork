@@ -21,7 +21,6 @@
 | DQN [64,64] baseline | -35 | 415 |
 | DQN [128,128] | 210 | 343 |
 
-![Reward Comparison](images/reward_comparison.png)
 
 ## Ключевые выводы
 
